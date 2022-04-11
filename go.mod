@@ -1,3 +1,3 @@
-module github.com/dim13/pearson
+module github.com/pedroalbanese/pearson
 
 go 1.12
